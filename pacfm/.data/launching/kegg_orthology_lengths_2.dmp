@@ -1,0 +1,172 @@
+(dp0
+VEndocrine system
+p1
+(dp2
+S'sequence_length'
+p3
+I1
+sS'n_protein'
+p4
+I1232
+ssVEnergy metabolism
+p5
+(dp6
+g3
+I1
+sg4
+I836
+ssVSubstance dependence
+p7
+(dp8
+g3
+I1
+sg4
+I287
+ssVNervous system
+p9
+(dp10
+g3
+I1
+sg4
+I707
+ssVNucleotide metabolism
+p11
+(dp12
+g3
+I1
+sg4
+I434
+ssVMetabolism of terpenoids and polyketides
+p13
+(dp14
+g3
+I1
+sg4
+I794
+ssVAmino acid metabolism
+p15
+(dp16
+g3
+I1
+sg4
+I1101
+ssVCellular commiunity
+p17
+(dp18
+g3
+I1
+sg4
+I509
+ssVTransport and catabolism
+p19
+(dp20
+g3
+I1
+sg4
+I478
+ssVInfectious diseases
+p21
+(dp22
+g3
+I1
+sg4
+I2227
+ssVNeurodegenerative diseases
+p23
+(dp24
+g3
+I1
+sg4
+I524
+ssVDigestive system
+p25
+(dp26
+g3
+I1
+sg4
+I482
+ssVSignal transduction
+p27
+(dp28
+g3
+I1
+sg4
+I2929
+ssVXenobiotics biodegradation and metabolism
+p29
+(dp30
+g3
+I1
+sg4
+I635
+ssVCancers
+p31
+(dp32
+g3
+I1
+sg4
+I1887
+ssVCarbohydrate metabolism
+p33
+(dp34
+g3
+I1
+sg4
+I1407
+ssVBiosynthesis of other secondary metabolites
+p35
+(dp36
+g3
+I1
+sg4
+I446
+ssVGlycan biosynthesis and metabolism
+p37
+(dp38
+g3
+I1
+sg4
+I437
+ssVLipid metabolism
+p39
+(dp40
+g3
+I1
+sg4
+I715
+ssVExcretory system
+p41
+(dp42
+g3
+I1
+sg4
+I151
+ssVOverview
+p43
+(dp44
+g3
+I1
+sg4
+I920
+ssVMetabolism of other amino acids
+p45
+(dp46
+g3
+I1
+sg4
+I225
+ssVMetabolism of cofactors and vitamins
+p47
+(dp48
+g3
+I1
+sg4
+I516
+ssVEndocrine and metabolic diseases
+p49
+(dp50
+g3
+I1
+sg4
+I328
+ss.

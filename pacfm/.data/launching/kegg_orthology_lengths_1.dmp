@@ -1,0 +1,39 @@
+(dp0
+VCellular Processes
+p1
+(dp2
+S'sequence_length'
+p3
+I1
+sS'n_protein'
+p4
+I2496
+ssVHuman Diseases
+p5
+(dp6
+g3
+I1
+sg4
+I6462
+ssVOrganismal Systems
+p7
+(dp8
+g3
+I1
+sg4
+I5414
+ssVEnvironmental Information Processing
+p9
+(dp10
+g3
+I1
+sg4
+I4268
+ssVMetabolism
+p11
+(dp12
+g3
+I1
+sg4
+I8493
+ss.

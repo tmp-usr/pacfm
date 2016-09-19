@@ -1,0 +1,23 @@
+glpchol.o: glpchol.c \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/float.h \
+  /usr/include/math.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h \
+  ../include/glpchol.h ../include/glpmat.h ../include/glpdmp.h \
+  ../include/glplib.h ../include/glpqmd.h
+glpchol.c :
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/float.h :
+/usr/include/math.h :
+/usr/include/sys/cdefs.h :
+/usr/include/sys/_symbol_aliasing.h :
+/usr/include/sys/_posix_availability.h :
+/usr/include/Availability.h :
+/usr/include/AvailabilityInternal.h :
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h :
+../include/glpchol.h :
+../include/glpmat.h :
+../include/glpdmp.h :
+../include/glplib.h :
+../include/glpqmd.h :

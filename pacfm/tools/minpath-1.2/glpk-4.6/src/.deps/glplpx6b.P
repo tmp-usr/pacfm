@@ -1,0 +1,15 @@
+glplpx6b.o: glplpx6b.c \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h \
+  ../include/glpipm.h ../include/glpmat.h ../include/glpdmp.h \
+  ../include/glplib.h ../include/glplpx.h ../include/glpinv.h \
+  ../include/glpluf.h ../include/glpstr.h
+glplpx6b.c :
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h :
+../include/glpipm.h :
+../include/glpmat.h :
+../include/glpdmp.h :
+../include/glplib.h :
+../include/glplpx.h :
+../include/glpinv.h :
+../include/glpluf.h :
+../include/glpstr.h :

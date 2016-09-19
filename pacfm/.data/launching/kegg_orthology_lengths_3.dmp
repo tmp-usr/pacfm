@@ -1,0 +1,865 @@
+(dp0
+VPPAR signaling pathway [PATH:ko03320]
+p1
+(dp2
+S'sequence_length'
+p3
+F24481.519972294995
+sS'n_protein'
+p4
+I59
+ssVSerotonergic synapse [PATH:ko04726]
+p5
+(dp6
+g3
+F50102.5698372931
+sg4
+I83
+ssVCaffeine metabolism [PATH:ko00232]
+p7
+(dp8
+g3
+F2452.84151281
+sg4
+I10
+ssVPyrimidine metabolism [PATH:ko00240]
+p9
+(dp10
+g3
+F74357.07913632426
+sg4
+I168
+ssVLong-term potentiation [PATH:ko04720]
+p11
+(dp12
+g3
+F35162.724244925
+sg4
+I42
+ssVMonobactam biosynthesis [PATH:ko00261]
+p13
+(dp14
+g3
+F6333.3131219279
+sg4
+I29
+ssVValine, leucine and isoleucine degradation [PATH:ko00280]
+p15
+(dp16
+g3
+F28117.62376548899
+sg4
+I69
+ssVTyrosine metabolism [PATH:ko00350]
+p17
+(dp18
+g3
+F24723.744276166006
+sg4
+I70
+ssVNovobiocin biosynthesis [PATH:ko00401]
+p19
+(dp20
+g3
+F4225.333121717
+sg4
+I31
+ssVFatty acid degradation [PATH:ko00071]
+p21
+(dp22
+g3
+F24007.253090349
+sg4
+I54
+ssVRetinol metabolism [PATH:ko00830]
+p23
+(dp24
+g3
+F16652.511858043
+sg4
+I49
+ssVChemical carcinogenesis [PATH:ko05204]
+p25
+(dp26
+g3
+F11099.726604341
+sg4
+I36
+ssV1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane (DDT) degradation [PATH:ko00351]
+p27
+(dp28
+g3
+F332.152777778
+sg4
+I1
+ssVAlanine, aspartate and glutamate metabolism [PATH:ko00250]
+p29
+(dp30
+g3
+F35003.581579561
+sg4
+I67
+ssVPenicillin and cephalosporin biosynthesis [PATH:ko00311]
+p31
+(dp32
+g3
+F7195.97682726
+sg4
+I16
+ssVArginine biosynthesis [PATH:ko00220]
+p33
+(dp34
+g3
+F25725.778210774497
+sg4
+I58
+ssVProteoglycans in cancer [PATH:ko05205]
+p35
+(dp36
+g3
+F100465.51301938604
+sg4
+I160
+ssVLysine degradation [PATH:ko00310]
+p37
+(dp38
+g3
+F45799.811408707
+sg4
+I72
+ssVMethane metabolism [PATH:ko00680]
+p39
+(dp40
+g3
+F41727.69848832372
+sg4
+I158
+ssVAlcoholism [PATH:ko05034]
+p41
+(dp42
+g3
+F35655.498295607125
+sg4
+I84
+ssVCaprolactam degradation [PATH:ko00930]
+p43
+(dp44
+g3
+F5783.7958212580015
+sg4
+I15
+ssVNicotinate and nicotinamide metabolism [PATH:ko00760]
+p45
+(dp46
+g3
+F15888.379931907997
+sg4
+I60
+ssVbeta-Alanine metabolism [PATH:ko00410]
+p47
+(dp48
+g3
+F17481.25910968
+sg4
+I44
+ssVPeptidoglycan biosynthesis [PATH:ko00550]
+p49
+(dp50
+g3
+F19067.006565729997
+sg4
+I41
+ssVPhenylalanine metabolism [PATH:ko00360]
+p51
+(dp52
+g3
+F23761.604323069994
+sg4
+I76
+ssVSteroid hormone biosynthesis [PATH:ko00140]
+p53
+(dp54
+g3
+F16423.973815380003
+sg4
+I47
+ssVGlycerolipid metabolism [PATH:ko00561]
+p55
+(dp56
+g3
+F26201.830481130997
+sg4
+I77
+ssVCarbon metabolism [PATH:ko01200]
+p57
+(dp58
+g3
+F109752.7436756227
+sg4
+I342
+ssVAscorbate and aldarate metabolism [PATH:ko00053]
+p59
+(dp60
+g3
+F14023.317625926797
+sg4
+I44
+ssVVitamin B6 metabolism [PATH:ko00750]
+p61
+(dp62
+g3
+F5794.523240792
+sg4
+I24
+ssVMelanogenesis [PATH:ko04916]
+p63
+(dp64
+g3
+F37686.36573161398
+sg4
+I66
+ssVTerpenoid backbone biosynthesis [PATH:ko00900]
+p65
+(dp66
+g3
+F15039.873191480998
+sg4
+I54
+ssVBile secretion [PATH:ko04976]
+p67
+(dp68
+g3
+F43095.77323498532
+sg4
+I59
+ssVFolate biosynthesis [PATH:ko00790]
+p69
+(dp70
+g3
+F11146.054281362998
+sg4
+I48
+ssVHTLV-I infection [PATH:ko05166]
+p71
+(dp72
+g3
+F109910.72532218775
+sg4
+I207
+ssVD-Arginine and D-ornithine metabolism [PATH:ko00472]
+p73
+(dp74
+g3
+F1108.577953811
+sg4
+I5
+ssVHIF-1 signaling pathway [PATH:ko04066]
+p75
+(dp76
+g3
+F41313.94170303698
+sg4
+I70
+ssVCarbon fixation pathways in prokaryotes [PATH:ko00720]
+p77
+(dp78
+g3
+F33220.667350854004
+sg4
+I107
+ssVHippo signaling pathway [PATH:ko04390]
+p79
+(dp80
+g3
+F45131.903992026
+sg4
+I108
+ssVParkinson's disease [PATH:ko05012]
+p81
+(dp82
+g3
+F35507.32913291621
+sg4
+I123
+ssVHuntington's disease [PATH:ko05016]
+p83
+(dp84
+g3
+F62732.021204957535
+sg4
+I150
+ssVGeraniol degradation [PATH:ko00281]
+p85
+(dp86
+g3
+F6495.274576434
+sg4
+I16
+ssVAmphetamine addiction [PATH:ko05031]
+p87
+(dp88
+g3
+F28459.533503868
+sg4
+I43
+ssVBisphenol degradation [PATH:ko00363]
+p89
+(dp90
+g3
+F1645.8146004330001
+sg4
+I6
+ssVGlycine, serine and threonine metabolism [PATH:ko00260]
+p91
+(dp92
+g3
+F31480.468432441998
+sg4
+I94
+ssVDioxin degradation [PATH:ko00621]
+p93
+(dp94
+g3
+F3104.1230312757993
+sg4
+I26
+ssVLinoleic acid metabolism [PATH:ko00591]
+p95
+(dp96
+g3
+F5880.355372264001
+sg4
+I26
+ssVCarbon fixation in photosynthetic organisms [PATH:ko00710]
+p97
+(dp98
+g3
+F14539.132908119
+sg4
+I37
+ssVDrug metabolism - other enzymes [PATH:ko00983]
+p99
+(dp100
+g3
+F8799.062218171
+sg4
+I22
+ssVPentose and glucuronate interconversions [PATH:ko00040]
+p101
+(dp102
+g3
+F20039.995430107
+sg4
+I64
+ssVD-Glutamine and D-glutamate metabolism [PATH:ko00471]
+p103
+(dp104
+g3
+F2782.687153148
+sg4
+I7
+ssVButanoate metabolism [PATH:ko00650]
+p105
+(dp106
+g3
+F27283.5942590465
+sg4
+I83
+ssVDopaminergic synapse [PATH:ko04728]
+p107
+(dp108
+g3
+F51862.150306493095
+sg4
+I82
+ssVPropanoate metabolism [PATH:ko00640]
+p109
+(dp110
+g3
+F32199.381140331992
+sg4
+I90
+ssVArginine and proline metabolism [PATH:ko00330]
+p111
+(dp112
+g3
+F41616.243288572994
+sg4
+I96
+ssVChloroalkane and chloroalkene degradation [PATH:ko00625]
+p113
+(dp114
+g3
+F7833.3784314975
+sg4
+I31
+ssVBiotin metabolism [PATH:ko00780]
+p115
+(dp116
+g3
+F6869.240222443999
+sg4
+I24
+ssVOxidative phosphorylation [PATH:ko00190]
+p117
+(dp118
+g3
+F57633.08082777203
+sg4
+I216
+ssVNaphthalene degradation [PATH:ko00626]
+p119
+(dp120
+g3
+F3161.38258097
+sg4
+I29
+ssVGlyoxylate and dicarboxylate metabolism [PATH:ko00630]
+p121
+(dp122
+g3
+F33360.009254435
+sg4
+I96
+ssVFatty acid biosynthesis [PATH:ko00061]
+p123
+(dp124
+g3
+F18745.934733491
+sg4
+I34
+ssVHistidine metabolism [PATH:ko00340]
+p125
+(dp126
+g3
+F14321.612309757002
+sg4
+I44
+ssVPyruvate metabolism [PATH:ko00620]
+p127
+(dp128
+g3
+F41282.63644745409
+sg4
+I93
+ssVPhenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]
+p129
+(dp130
+g3
+F24943.214264537004
+sg4
+I73
+ssVFatty acid elongation [PATH:ko00062]
+p131
+(dp132
+g3
+F6903.702436316999
+sg4
+I24
+ssVGlycerophospholipid metabolism [PATH:ko00564]
+p133
+(dp134
+g3
+F34837.23954700801
+sg4
+I108
+ssVAmino sugar and nucleotide sugar metabolism [PATH:ko00520]
+p135
+(dp136
+g3
+F47357.10259541599
+sg4
+I146
+ssVTryptophan metabolism [PATH:ko00380]
+p137
+(dp138
+g3
+F30114.428770510007
+sg4
+I65
+ssVGalactose metabolism [PATH:ko00052]
+p139
+(dp140
+g3
+F29833.068585478803
+sg4
+I75
+ssVOne carbon pool by folate [PATH:ko00670]
+p141
+(dp142
+g3
+F12159.288152750998
+sg4
+I34
+ssVTwo-component system [PATH:ko02020]
+p143
+(dp144
+g3
+F148481.68927132862
+sg4
+I444
+ssVProximal tubule bicarbonate reclamation [PATH:ko04964]
+p145
+(dp146
+g3
+F6932.092099558302
+sg4
+I15
+ssVBiosynthesis of unsaturated fatty acids [PATH:ko01040]
+p147
+(dp148
+g3
+F11416.841789430002
+sg4
+I30
+ssVDrug metabolism - cytochrome P450 [PATH:ko00982]
+p149
+(dp150
+g3
+F6982.402271784001
+sg4
+I23
+ssVFoxO signaling pathway [PATH:ko04068]
+p151
+(dp152
+g3
+F47751.11341463
+sg4
+I101
+ssVTaurine and hypotaurine metabolism [PATH:ko00430]
+p153
+(dp154
+g3
+F7933.145213782001
+sg4
+I24
+ssVValine, leucine and isoleucine biosynthesis [PATH:ko00290]
+p155
+(dp156
+g3
+F6945.270761559499
+sg4
+I18
+ssVAMPK signaling pathway [PATH:ko04152]
+p157
+(dp158
+g3
+F44994.169533547996
+sg4
+I82
+ssV2-Oxocarboxylic acid metabolism [PATH:ko01210]
+p159
+(dp160
+g3
+F27435.387980280007
+sg4
+I77
+ssVPolyketide sugar unit biosynthesis [PATH:ko00523]
+p161
+(dp162
+g3
+F2723.627428279
+sg4
+I37
+ssVPathways in cancer [PATH:ko05200]
+p163
+(dp164
+g3
+F192256.9178787376
+sg4
+I315
+ssVFatty acid metabolism [PATH:ko01212]
+p165
+(dp166
+g3
+F37325.887074205
+sg4
+I73
+ssVStreptomycin biosynthesis [PATH:ko00521]
+p167
+(dp168
+g3
+F6334.090538874001
+sg4
+I19
+ssVIsoquinoline alkaloid biosynthesis [PATH:ko00950]
+p169
+(dp170
+g3
+F7969.9088161810005
+sg4
+I43
+ssVDegradation of aromatic compounds [PATH:ko01220]
+p171
+(dp172
+g3
+F33894.11709991351
+sg4
+I199
+ssVCitrate cycle (TCA cycle) [PATH:ko00020]
+p173
+(dp174
+g3
+F22204.05035665999
+sg4
+I58
+ssVGlucagon signaling pathway [PATH:ko04922]
+p175
+(dp176
+g3
+F33269.545342845995
+sg4
+I56
+ssVStyrene degradation [PATH:ko00643]
+p177
+(dp178
+g3
+F5624.890457499
+sg4
+I23
+ssVOvarian Steroidogenesis [PATH:ko04913]
+p179
+(dp180
+g3
+F24682.839935207998
+sg4
+I40
+ssVSignaling pathways regulating pluripotency of stem cells [PATH:ko04550]
+p181
+(dp182
+g3
+F55358.623803840004
+sg4
+I109
+ssVNitrotoluene degradation [PATH:ko00633]
+p183
+(dp184
+g3
+F6246.507652244001
+sg4
+I18
+ssVCentral carbon metabolism in cancer [PATH:ko05230]
+p185
+(dp186
+g3
+F29635.800171759005
+sg4
+I47
+ssVStarch and sucrose metabolism [PATH:ko00500]
+p187
+(dp188
+g3
+F50669.392367659
+sg4
+I102
+ssVLysine biosynthesis [PATH:ko00300]
+p189
+(dp190
+g3
+F16817.281004168504
+sg4
+I48
+ssVAlzheimer's disease [PATH:ko05010]
+p191
+(dp192
+g3
+F71398.5501066912
+sg4
+I142
+ssVLimonene and pinene degradation [PATH:ko00903]
+p193
+(dp194
+g3
+F3776.9581212720004
+sg4
+I15
+ssVSynthesis and degradation of ketone bodies [PATH:ko00072]
+p195
+(dp196
+g3
+F3672.860515233
+sg4
+I9
+ssVcAMP signaling pathway [PATH:ko04024]
+p197
+(dp198
+g3
+F103588.6154604512
+sg4
+I146
+ssVPentose phosphate pathway [PATH:ko00030]
+p199
+(dp200
+g3
+F20807.313142176008
+sg4
+I76
+ssVC5-Branched dibasic acid metabolism [PATH:ko00660]
+p201
+(dp202
+g3
+F5728.1020826475
+sg4
+I26
+ssVBiosynthesis of amino acids [PATH:ko01230]
+p203
+(dp204
+g3
+F85395.99737406698
+sg4
+I229
+ssVPeroxisome [PATH:ko04146]
+p205
+(dp206
+g3
+F31605.539661840005
+sg4
+I73
+ssVPurine metabolism [PATH:ko00230]
+p207
+(dp208
+g3
+F124431.91895967041
+sg4
+I265
+ssVFructose and mannose metabolism [PATH:ko00051]
+p209
+(dp210
+g3
+F26587.737127681998
+sg4
+I99
+ssValpha-Linolenic acid metabolism [PATH:ko00592]
+p211
+(dp212
+g3
+F7798.007747963
+sg4
+I24
+ssVSteroid biosynthesis [PATH:ko00100]
+p213
+(dp214
+g3
+F12626.991962302001
+sg4
+I31
+ssVInositol phosphate metabolism [PATH:ko00562]
+p215
+(dp216
+g3
+F29117.791456716008
+sg4
+I61
+ssVPantothenate and CoA biosynthesis [PATH:ko00770]
+p217
+(dp218
+g3
+F11053.919984627502
+sg4
+I37
+ssVArachidonic acid metabolism [PATH:ko00590]
+p219
+(dp220
+g3
+F13344.470795236
+sg4
+I45
+ssVLegionellosis [PATH:ko05134]
+p221
+(dp222
+g3
+F25470.944441038002
+sg4
+I69
+ssVNon-alcoholic fatty liver disease (NAFLD) [PATH:ko04932]
+p223
+(dp224
+g3
+F40829.278614964234
+sg4
+I125
+ssVHedgehog signaling pathway [PATH:ko04340]
+p225
+(dp226
+g3
+F23806.258990665996
+sg4
+I41
+ssVPorphyrin and chlorophyll metabolism [PATH:ko00860]
+p227
+(dp228
+g3
+F39937.97988795599
+sg4
+I108
+ssVCarbapenem biosynthesis [PATH:ko00332]
+p229
+(dp230
+g3
+F784.57278711
+sg4
+I20
+ssVGlycolysis / Gluconeogenesis [PATH:ko00010]
+p231
+(dp232
+g3
+F34483.510906975505
+sg4
+I95
+ssVWnt signaling pathway [PATH:ko04310]
+p233
+(dp234
+g3
+F48696.91038984598
+sg4
+I101
+ssVBenzoate degradation [PATH:ko00362]
+p235
+(dp236
+g3
+F22907.621604214502
+sg4
+I91
+ssVNitrogen metabolism [PATH:ko00910]
+p237
+(dp238
+g3
+F26211.688229752996
+sg4
+I57
+ssVMetabolism of xenobiotics by cytochrome P450 [PATH:ko00980]
+p239
+(dp240
+g3
+F8820.602757572999
+sg4
+I33
+ssVBasal cell carcinoma [PATH:ko05217]
+p241
+(dp242
+g3
+F26030.496892803993
+sg4
+I43
+ssVGlutathione metabolism [PATH:ko00480]
+p243
+(dp244
+g3
+F16530.724081120006
+sg4
+I41
+ssVCocaine addiction [PATH:ko05030]
+p245
+(dp246
+g3
+F22926.369741693004
+sg4
+I39
+ssVCysteine and methionine metabolism [PATH:ko00270]
+p247
+(dp248
+g3
+F25914.020533694013
+sg4
+I82
+ss.
