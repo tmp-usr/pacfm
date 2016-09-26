@@ -53,7 +53,11 @@ class Assembler(object):
             lc= LinkCoordinate(biodb)
             for parent in parents:
                 c= Coordinate(biodb)
+                
+                
                 c.set_value(self.abundance[e])
+                
+                
                 if parent.name not in ide.names:
                     ide.append(Chromosome(parent, self.biodb_selector))
                 lc.add(c)

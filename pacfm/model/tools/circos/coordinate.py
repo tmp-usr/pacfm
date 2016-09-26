@@ -30,6 +30,7 @@ class Coordinate(Feature):
         
         if levels == []:
             levels=[None]*3
+        
         self.levels= levels
         self.links=[]
 
@@ -493,7 +494,7 @@ class Ideogram(PathwayContainer):
 
 
 
-    def yield_highlights(self, karyotype, highlight):
+    def yield_highlights2(self, karyotype, highlight):
         highlighted_pathway_names= map(unicode.lower, highlight.pathways)
         for chrom in self.chromosomes:
             crs= (chrom.get_coordinates()[0],chrom.get_coordinates()[-1])
@@ -521,6 +522,25 @@ class Ideogram(PathwayContainer):
                 line= map(str, [karyotype[karyotype_name], coor[0], coor[1], option])
                 
                 yield '\t'.join(line) + "\n"   
+
+
+
+    def yield_highlights(self, karyotype):
+        for coor in self.get_all_coordinates():
+            karyotype_name= coor.get_name_by_level(1)
+            option="fill_color=" 
+            
+            if coor.value > 0:
+                option += "255,0,0,0.6"
+
+            else:
+                option+= "0,0,255,0.6"
+            
+            
+            line= map(str, [karyotype[karyotype_name], coor.get_coordinate()[0], coor.get_coordinate()[1], option])
+            
+            yield '\t'.join(line) + "\n"   
+
 
 
     def yield_karyotype(self, karyotype):

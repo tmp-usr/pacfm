@@ -134,11 +134,13 @@ class IOWorker(object):
 
     def build_highlights(self, highlights):
         #### assert highlight color is set!
-        
+        ide= self.assembler.ideograms[2]
+
         with open(file_provider['circos_data']['highlights'], 'w') as fHL:     
+            for line in ide.yield_highlights(self.karyotype):fHL.write(line)
+            trash="""
+            
             for i in range(len(highlights)):
                 highlight= highlights.get_by_index(i)
                 level= highlight.level
-                ide= self.assembler.ideograms[level-1]
-                for line in ide.yield_highlights(self.karyotype, highlight):fHL.write(line)
-
+                """

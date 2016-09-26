@@ -17,6 +17,8 @@ from pacfm.view.gui import AbbrDialog, HelpDialog
 from pacfm.view.gui import GridPanel      
 from pacfm.view.gui import NewProjectDialog
 
+
+
 class PacfmGUI(PacfmBase):
     """
         GUI class

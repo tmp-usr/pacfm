@@ -48,7 +48,7 @@ setup(
 
       install_requires = ['matplotlib', 'pandas', 'svgutils', 'biodb'],
 
-      dependency_links= ["https://github.com/ecotox/biodb/tarball/master#egg=biodb-0.0.1"]
+      #dependency_links= ["https://github.com/ecotox/biodb/tarball/master#egg=biodb-0.0.1"]
       )
 
 
